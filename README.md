@@ -1,2 +1,2 @@
-# Invariant-Information-Clustering--Tensorlfow2.2
+# Invariant-Information-Clustering Tensorflow2.2
 i
